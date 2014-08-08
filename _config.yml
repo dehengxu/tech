@@ -8,3 +8,9 @@ url: "http://xudeheng.github.io/tech"
 # Build settings
 markdown: kramdown
 permalink: pretty
+highlighter: pygments
+
+excerpt_separator: "\n\n\n"
+
+safe: false
+lsi: false
